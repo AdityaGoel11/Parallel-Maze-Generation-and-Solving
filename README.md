@@ -1,9 +1,3 @@
-### Result
-
-This Markdown structure will render as follows:
-
----
-
 ### Project Structure
 
 ```markdown
